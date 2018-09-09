@@ -1,7 +1,0 @@
-C:\Users\Lenovo\Desktop\ADO.NET\CoffeeMaler\CoffeeMaler\bin\Debug\CoffeeMaler.exe.config
-C:\Users\Lenovo\Desktop\ADO.NET\CoffeeMaler\CoffeeMaler\bin\Debug\CoffeeMaler.exe
-C:\Users\Lenovo\Desktop\ADO.NET\CoffeeMaler\CoffeeMaler\bin\Debug\CoffeeMaler.pdb
-C:\Users\Lenovo\Desktop\ADO.NET\CoffeeMaler\CoffeeMaler\obj\Debug\CoffeeMaler.csprojAssemblyReference.cache
-C:\Users\Lenovo\Desktop\ADO.NET\CoffeeMaler\CoffeeMaler\obj\Debug\CoffeeMaler.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Desktop\ADO.NET\CoffeeMaler\CoffeeMaler\obj\Debug\CoffeeMaler.exe
-C:\Users\Lenovo\Desktop\ADO.NET\CoffeeMaler\CoffeeMaler\obj\Debug\CoffeeMaler.pdb
